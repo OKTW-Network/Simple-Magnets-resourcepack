@@ -1,0 +1,8 @@
+{
+  "parent": "smpmag:item/tool/_template-magnet",
+  "textures": {
+      "head": "smpmag:item/magnet_head_activated",
+      "ring": "smpmag:item/magnet_ring_item",
+      "body": "smpmag:item/magnet_item"
+  }
+}

@@ -1,0 +1,11 @@
+{
+"item.smpmag.magnet": "磁鐵",
+"item.smpmag.magnet.item": "物品磁鐵",
+"item.smpmag.magnet.exp": "經驗球磁鐵",
+"item.smpmag.magnet.universal": "萬用磁鐵",
+
+"attribute.range": "範圍",
+
+"action.activate": "開",
+"action.deactivate": "關"
+}

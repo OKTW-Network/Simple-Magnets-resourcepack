@@ -1,0 +1,11 @@
+{
+"item.smpmag.magnet": "Magnet",
+"item.smpmag.magnet.item": "Item Magnet",
+"item.smpmag.magnet.exp": "Exp Orb Magnet",
+"item.smpmag.magnet.universal": "Universal Magnet",
+
+"attribute.range": "Range",
+
+"action.activate": "Activated",
+"action.deactivate": "Deactivated"
+}

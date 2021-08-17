@@ -1,0 +1,20 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+      "layer0": "item/carrot_on_a_stick"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 410100}, "model": "smpmag:item/tool/item_magnet_mk1-deactivated"},
+    { "predicate": {"custom_model_data": 410101}, "model": "smpmag:item/tool/item_magnet_mk2-deactivated"},
+    { "predicate": {"custom_model_data": 410110}, "model": "smpmag:item/tool/item_magnet_mk1-activated"},
+    { "predicate": {"custom_model_data": 410111}, "model": "smpmag:item/tool/item_magnet_mk2-activated"},
+    { "predicate": {"custom_model_data": 410200}, "model": "smpmag:item/tool/exp_magnet_mk1-deactivated"},
+    { "predicate": {"custom_model_data": 410201}, "model": "smpmag:item/tool/exp_magnet_mk2-deactivated"},
+    { "predicate": {"custom_model_data": 410210}, "model": "smpmag:item/tool/exp_magnet_mk1-activated"},
+    { "predicate": {"custom_model_data": 410211}, "model": "smpmag:item/tool/exp_magnet_mk2-activated"},
+    { "predicate": {"custom_model_data": 410300}, "model": "smpmag:item/tool/universal_magnet_mk1-deactivated"},
+    { "predicate": {"custom_model_data": 410301}, "model": "smpmag:item/tool/universal_magnet_mk2-deactivated"},
+    { "predicate": {"custom_model_data": 410310}, "model": "smpmag:item/tool/universal_magnet_mk1-activated"},
+    { "predicate": {"custom_model_data": 410311}, "model": "smpmag:item/tool/universal_magnet_mk2-activated"}
+  ]
+}
